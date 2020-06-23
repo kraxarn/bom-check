@@ -1,0 +1,9 @@
+[package]
+name = "bom-check"
+version = "0.1.0"
+authors = ["kraxarn <me@kraxarn.com>"]
+edition = "2018"
+
+[dependencies]
+is_utf8 = "^0.1"
+walkdir = "^2.0"
